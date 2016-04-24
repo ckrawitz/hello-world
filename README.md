@@ -1,2 +1,2 @@
 # hello-world
-just another repositary
+I have just started self-learning code. I have finished learnt the basics of HTML and CSS and now learning Java-script currently with ambitions to learn Python. This is my first time using github! If anyone has any tips or suggestions to share, please let me know.
